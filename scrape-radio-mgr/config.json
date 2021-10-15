@@ -1,0 +1,18 @@
+{
+"all":{
+	"directory":"C:/Music/RipsTemp/",
+	"filename":"%S/%D##%A##%T",
+	"userAgent":"Apple-iPhone4C1/1001.523",
+	"skipKnown":"true"
+},
+
+"cls kwax":{"url":"http://streaming.kwax.com:8000/stream1"},
+
+"ele danceuk":{"url":"https://dancestream.danceradiouk.com/stream/"},
+
+"jpn bakaradio":{"url":"http://144.217.203.184:8398/listen.pls"},
+"jpn stereo anime":{"url":"http://evcast.mediacp.eu:1750/listen.pls"},
+"jpn tsubaki":{"url":"http://stream.tsubakianimeradio.com:9000/listen.pls"},
+"jpn yggdrasil":{"url":"https://yggdrasilradio.net/yggdrasilradio_aac_56kbps.pls"}
+
+}
