@@ -8,7 +8,7 @@ import com.google.gson.JsonObject;
 
 public class Util
 {
-	private static Map<String,String> defaultValues=new HashMap<>() {{
+	private static Map<String,String> defaultValues=new HashMap<String,String>() {{
 		put("directory",".");
 		put("filename","%S/%D##%A##%T");
 		put("userAgent","Apple-iPhone4C1/1001.523");
